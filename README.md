@@ -25,7 +25,7 @@ It features a clean design, product sections, and a fully responsive layout.
 ![Product Details](screenshots/screenshot4.png)
 
 ### 🖼️ Footer Section
-![Footer](screenshots/screenshot5.png)
+![Footer](https://github.com/kenithleon/ecommerce-website-design/blob/1fb6542396aa91169e43ef7dea2d6ac27ac380b8/Screenshot%202025-09-19%20102651.png)
 
 > 📝 *Place your screenshots inside a `screenshots` folder in your repository (name them screenshot1.png ... screenshot5.png).*
 
