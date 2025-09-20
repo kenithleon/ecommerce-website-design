@@ -16,10 +16,10 @@ It features a clean design, product sections, and a fully responsive layout.
 ![Home Page](https://github.com/kenithleon/ecommerce-website-design/blob/bba1b7e9648540310477eb4380d9133b20d95d97/Screenshot%202025-09-19%20102613.png)
 
 ### 🖼️ Featured Products
-![Featured Products](https://github.com/kenithleon/ecommerce-website-design/blob/6f8976b9aafb1fdc38d3fba98ef7ae9e5fb18feb/Screenshot%202025-09-19%20102826.png)
+![Featured Products]()
 
 ### 🖼️ Product Listing
-![Product Listing](screenshots/screenshot3.png)
+![Product Listing](https://github.com/kenithleon/ecommerce-website-design/blob/6f8976b9aafb1fdc38d3fba98ef7ae9e5fb18feb/Screenshot%202025-09-19%20102826.png)
 
 ### 🖼️ Product Details
 ![Product Details](screenshots/screenshot4.png)
