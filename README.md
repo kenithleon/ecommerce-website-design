@@ -1,6 +1,6 @@
 # 🛍️ E-commerce Website
 
-A modern and responsive **E-commerce web application** built using **React + Tailwind CSS**.  
+A modern and responsive **E-commerce web application** built using **React + Tailwind CSS**, using Fake API.
 It features a clean design, product sections, and a fully responsive layout.
 
 ---
