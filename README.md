@@ -16,7 +16,7 @@ It features a clean design, product sections, and a fully responsive layout.
 ![Home Page](https://github.com/kenithleon/ecommerce-website-design/blob/bba1b7e9648540310477eb4380d9133b20d95d97/Screenshot%202025-09-19%20102613.png)
 
 ### 🖼️ Featured Products
-![Featured Products]()
+![Featured Products](https://github.com/kenithleon/ecommerce-website-design/blob/88840d91ee28bbd73430d51e4b5d9aa3b5f9757b/Screenshot%202025-09-19%20102631.png)
 
 ### 🖼️ Product Listing
 ![Product Listing](https://github.com/kenithleon/ecommerce-website-design/blob/6f8976b9aafb1fdc38d3fba98ef7ae9e5fb18feb/Screenshot%202025-09-19%20102826.png)
@@ -27,7 +27,7 @@ It features a clean design, product sections, and a fully responsive layout.
 ### 🖼️ Footer Section
 ![Footer](https://github.com/kenithleon/ecommerce-website-design/blob/1fb6542396aa91169e43ef7dea2d6ac27ac380b8/Screenshot%202025-09-19%20102651.png)
 
-> 📝 *Place your screenshots inside a `screenshots` folder in your repository (name them screenshot1.png ... screenshot5.png).*
+
 
 ---
 
